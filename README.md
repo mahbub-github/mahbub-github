@@ -1,5 +1,5 @@
 Hi, I'm Mahbub Hasan 👋
-Principal Software Engineer | C# | .NET | ASP.NET Core | Angular
+Principal Software Engineer | C# | .NET | ASP.NET Core | SAML | Angular | SQL | Claude AI
 
 I'm a software engineer with 20 years of professional experience designing, developing, and maintaining enterprise applications across banking, SaaS, and higher education.
 
