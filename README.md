@@ -1,5 +1,5 @@
 Hi, I am Mahbub Hasan 👋
-Principal Software Engineer at Cranium Soft | Full-Stack .NET & Angular| SAML 2.0 | Claude AI
+Principal Software Engineer at Cranium Soft | Full-Stack .NET & Angular | SAML 2.0 | Claude AI
 
 I am a software engineer with 20 years of professional experience designing, developing, and maintaining enterprise applications across banking, SaaS, and higher education.
 
@@ -11,10 +11,7 @@ Throughout my career, I have worked with US clients, collaborated directly with 
 
 Backend Development
 
-C#, .NET, ASP.NET Core Web API
-ASP.NET MVC and Web Forms
-Entity Framework and LINQ
-RESTful API design and integration
+Full-Stack .NET
 
 Frontend Development
 
@@ -24,7 +21,7 @@ HTML5, CSS, and jQuery
 
 Databases
 
-Microsoft SQL Server and T-SQL
+SQL Server and T-SQL
 Oracle and PL/SQL
 MongoDB and MySQL
 
