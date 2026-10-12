@@ -1,11 +1,11 @@
-Hi, I'm Mahbub Hasan 👋
-Principal Software Engineer | C# | .NET | ASP.NET Core | SAML | Angular | SQL | Claude AI
+Hi, I am Mahbub Hasan 👋
+Principal Software Engineer at Cranium Soft | Full-Stack .NET & Angular| SAML 2.0 | Claude AI
 
-I'm a software engineer with 20 years of professional experience designing, developing, and maintaining enterprise applications across banking, SaaS, and higher education.
+I am a software engineer with 20 years of professional experience designing, developing, and maintaining enterprise applications across banking, SaaS, and higher education.
 
 My core expertise is in the Microsoft technology stack, including C#, ASP.NET Core, Angular, TypeScript, SQL Server, and RESTful API development.
 
-Throughout my career, I've worked with US clients, collaborated directly with stakeholders, designed enterprise application features, and delivered software solutions that address real business requirements.
+Throughout my career, I have worked with US clients, collaborated directly with stakeholders, designed enterprise application features, and delivered software solutions that address real business requirements.
 
 🛠️ Technical Expertise
 
@@ -51,7 +51,7 @@ Code refactoring and maintainability
 Debugging and problem-solving
 Code review and improvement
 
-I'm also beginning to explore AI integration with .NET applications and learning about the tools, frameworks, and concepts involved in AI-powered software development.
+I am also beginning to explore AI integration with .NET applications and learning about the tools, frameworks, and concepts involved in AI-powered software development.
 
 🌱 Current Learning Interests
 AI integration with C# and .NET
@@ -67,12 +67,12 @@ My goal is to build on my existing enterprise software engineering experience wh
 
 💼 Professional Background
 
-I've contributed to software solutions across several domains:
+I have contributed to software solutions across several domains:
 
-Higher Education: Strategic planning and accreditation SaaS platforms
+Higher Education: Strategic planning, assessment and accreditation SaaS platforms
 Customer Management: Configurable CRM and SaaS applications
-Banking: Internet banking, mobile banking, and SMS management systems
-Enterprise Integration: Web Services and Oracle Service Bus
+Banking: Internet banking, mobile banking, SMS management systems 
+Enterprise Integration: ASP.Net Core API and Oracle Service Bus (OSB) integration middleware platform
 
 I enjoy solving complex technical problems, improving software quality, and collaborating with teams to deliver reliable, maintainable solutions.
 
