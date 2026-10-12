@@ -11,7 +11,7 @@ Throughout my career, I have worked with US clients, collaborated directly with 
 
 Backend Development
 
-Full-Stack .NET
+ASP.NET Core API in .NET 10
 
 Frontend Development
 
@@ -75,7 +75,7 @@ I enjoy solving complex technical problems, improving software quality, and coll
 
 🤝 Let's Connect
 
-I'm interested in connecting with software engineers, technical leaders, and organizations working on enterprise software development.
+I am interested in connecting with software engineers, technical leaders, and organizations working on enterprise software development.
 
 📍 Dhaka, Bangladesh
 
