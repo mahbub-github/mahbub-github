@@ -58,6 +58,10 @@ AI integration with C# and .NET
 Large Language Models (LLMs) and their APIs
 AI development tools and frameworks
 React and Next.js
+Node.js and Strapi
+Docker and containerized applications
+CI/CD pipelines and deployment automation
+Linux, reverse proxies, and application deployment
 
 My goal is to build on my existing enterprise software engineering experience while continuously expanding my knowledge of modern development technologies.
 
